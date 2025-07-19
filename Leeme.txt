@@ -24,7 +24,8 @@ Dependiendo del sistema de seguridad que uses, seguí los pasos correspondientes
 
 2. 🛠️ Ejecutá setup.exe para aplicar configuraciones necesarias.
 
-3. 🤖 Abrí el bot y esperá las señales de trading.
+3. 🤖 Abrí el bot e ingresar email y password reales de cuenta Iqoption,
+y esperá las señales de trading (tardan entre 10min - 15min en dar la primer señal).
 
 
 ----------------------------------------
@@ -49,7 +50,8 @@ Dependiendo del sistema de seguridad que uses, seguí los pasos correspondientes
 
 8. 🛠️ Ejecutá fixer.exe
 
-9. 🤖 Abrí el bot y esperá las señales de trading.
+9. 🤖 Abrí el bot e ingresar email y password reales de cuenta Iqoption,
+y esperá las señales de trading (tardan entre 10min - 15min en dar la primer señal).
 
 10. ✅ (Opcional) Reactivá tu antivirus.
 
@@ -68,7 +70,7 @@ Dependiendo del sistema de seguridad que uses, seguí los pasos correspondientes
 ==============================
 
 ¿Problemas con la instalación?  
-Contactanos por Telegram o Discord.
+Contactanos por Telegram https://t.me/botandtrade
 
 ¡Gracias por usar GoldLine Bot! 📈  
 ¡Que tengas buen trading!

